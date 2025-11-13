@@ -2,7 +2,8 @@
 ##Português
 Este projeto foi desenvolvido para auxiliar a comunidade pokemon que só quer imprimir etiquetas para seu fichário pokemon e organizar sua coleção de forma fácil
 
-Basta você colocar o pokemon em que vai iniciar e finalizar a listagem como na imagem abaixo
+Basta você colocar o pokemon em que vai iniciar e finalizar a listagem como na imagem abaixo.
+
 <img width="302" height="80" alt="image" src="https://github.com/user-attachments/assets/4b5e8a33-98a2-4f68-924c-73a4c9a9455e" />
 
 ##English
