@@ -26,6 +26,5 @@ Simply enter the Pokémon you're going to start with and complete the list as sh
 
 **Switch the option USE_PORTUGUESE to FALSE**
 
-After that, simply click on "RUN ALL" ('EXECUTAR TUDO' in portuguese):
-<img width="121" height="40" alt="image" src="https://github.com/user-attachments/assets/82b2b951-a97e-4a06-944c-ef32c5306a6b" />
+After that, simply click on "Run All".
 
