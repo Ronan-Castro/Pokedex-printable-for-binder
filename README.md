@@ -8,6 +8,7 @@ Este projeto foi desenvolvido para auxiliar a comunidade pokemon que só quer im
 O pdf ficará salvo no drive que você conectar ao projeto.
 
 Basta você colocar o pokemon em que vai iniciar e finalizar a listagem como na imagem abaixo. Além disso pode escolher entre português ou inglês.
+
 <img width="494" height="96" alt="image" src="https://github.com/user-attachments/assets/1ebd387d-c359-4373-a860-e8c2f45907a3" />
 
 Depois disso basta executar tudo: <img width="121" height="40" alt="image" src="https://github.com/user-attachments/assets/82b2b951-a97e-4a06-944c-ef32c5306a6b" />
