@@ -3,7 +3,7 @@
 Link Colab
 **https://colab.research.google.com/drive/1oONF-_GiH9cePBfsLLXmaOvpJJL4WRj-?usp=sharing**
 
-##Português
+## Português
 Este projeto foi desenvolvido para auxiliar a comunidade pokemon que só quer imprimir etiquetas para seu fichário pokemon e organizar sua coleção de forma fácil. 
 O pdf ficará salvo no drive que você conectar ao projeto.
 
@@ -14,7 +14,7 @@ Basta você colocar o pokemon em que vai iniciar e finalizar a listagem como na 
 Depois disso basta executar tudo: <img width="121" height="40" alt="image" src="https://github.com/user-attachments/assets/82b2b951-a97e-4a06-944c-ef32c5306a6b" />
 
 
-##English
+## English
 This project was developed to assist the Pokémon community who simply want to print labels for their Pokémon binder and organize their collection easily.
 The PDF will be saved to the drive you connect to the project.
 
